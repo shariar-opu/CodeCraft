@@ -1,9 +1,1 @@
-![g1](https://github.com/user-attachments/assets/5e44cb93-20cc-48d7-a69e-074c1f23e8ab)
-![code_craft](https://github.com/user-attachments/assets/8b78c6dc-0754-4f7a-9183-d0b6f1d869dd)
-![9](https://github.com/user-attachments/assets/dac91ba9-8d6c-421e-9f6f-bc7afacabc02)
-![7](https://github.com/user-attachments/assets/5edd303c-30ac-4782-924c-529735acf98c)
-![6](https://github.com/user-attachments/assets/3e520ecc-c08e-479f-9469-5d23c9fd14c4)
-![5](https://github.com/user-attachments/assets/8111b6ca-345e-4531-a378-24d779d02ac8)
-![4](https://github.com/user-attachments/assets/4b0ff136-2f63-4f1c-b49f-992c9083cf7d)
-![3](https://github.com/user-attachments/assets/3752d41b-888c-4d94-8324-954ad1d80954)
-![2](https://github.com/user-attachments/assets/f36d3ec5-cd10-404d-98dd-b005ffa79fb5)
+
